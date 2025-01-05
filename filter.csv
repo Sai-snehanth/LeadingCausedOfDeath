@@ -1,0 +1,397 @@
+index, Rank order,Group,Year,Cause of death,Deaths
+0,,All persons,1980,All causes,1989841
+1,1,All persons,1980,Diseases of heart,761085
+2,2,All persons,1980,Malignant neoplasms,416509
+3,3,All persons,1980,Cerebrovascular diseases,170225
+4,4,All persons,1980,Unintentional injuries,105718
+5,5,All persons,1980,Chronic obstructive pulmonary diseases,56050
+6,6,All persons,1980,Pneumonia and influenza,54619
+7,7,All persons,1980,Diabetes mellitus,34851
+8,8,All persons,1980,Chronic liver disease and cirrhosis,30583
+9,9,All persons,1980,Atherosclerosis,29449
+10,10,All persons,1980,Suicide,26869
+11,,Male,1980,All causes,1075078
+12,1,Male,1980,Diseases of heart,405661
+13,2,Male,1980,Malignant neoplasms,225948
+14,3,Male,1980,Unintentional injuries,74180
+15,4,Male,1980,Cerebrovascular diseases,69973
+16,5,Male,1980,Chronic obstructive pulmonary diseases,38625
+17,6,Male,1980,Pneumonia and influenza,27574
+18,7,Male,1980,Suicide,20505
+19,8,Male,1980,Chronic liver disease and cirrhosis,19768
+20,9,Male,1980,Homicide,18779
+21,10,Male,1980,Diabetes mellitus,14325
+22,,Female,1980,All causes,914763
+23,1,Female,1980,Diseases of heart,355424
+24,2,Female,1980,Malignant neoplasms,190561
+25,3,Female,1980,Cerebrovascular diseases,100252
+26,4,Female,1980,Unintentional injuries,31538
+27,5,Female,1980,Pneumonia and influenza,27045
+28,6,Female,1980,Diabetes mellitus,20526
+29,7,Female,1980,Atherosclerosis,17848
+30,8,Female,1980,Chronic obstructive pulmonary diseases,17425
+31,9,Female,1980,Chronic liver disease and cirrhosis,10815
+32,10,Female,1980,Certain conditions originating in the perinatal period,9815
+33,,White,1980,All causes,1738607
+34,1,White,1980,Diseases of heart,683347
+35,2,White,1980,Malignant neoplasms,368162
+36,3,White,1980,Cerebrovascular diseases,148734
+37,4,White,1980,Unintentional injuries,90122
+38,5,White,1980,Chronic obstructive pulmonary diseases,52375
+39,6,White,1980,Pneumonia and influenza                               ,48369
+40,7,White,1980,Diabetes mellitus                                     ,28868
+41,8,White,1980,Atherosclerosis                                       ,27069
+42,9,White,1980,Chronic liver disease and cirrhosis                   ,25240
+43,10,White,1980,Suicide                                               ,24829
+44,,Black or African American,1980,All causes                                            ,233135
+45,1,Black or African American,1980,Diseases of heart                                     ,72956
+46,2,Black or African American,1980,Malignant neoplasms                                   ,45037
+47,3,Black or African American,1980,Cerebrovascular diseases                              ,20135
+48,4,Black or African American,1980,Unintentional injuries                                ,13480
+49,5,Black or African American,1980,Homicide,10172
+50,6,Black or African American,1980,Certain conditions originating in the perinatal period,6961
+51,7,Black or African American,1980,Pneumonia and influenza                               ,5648
+52,8,Black or African American,1980,Diabetes mellitus                                     ,5544
+53,9,Black or African American,1980,Chronic liver disease and cirrhosis                   ,4790
+54,10,Black or African American,1980,"Nephritis, nephrotic syndrome, and nephrosis          ",3416
+55,,American Indian or Alaska Native,1980,All causes                                            ,6923
+56,1,American Indian or Alaska Native,1980,Diseases of heart                                     ,1494
+57,2,American Indian or Alaska Native,1980,Unintentional injuries                                ,1290
+58,3,American Indian or Alaska Native,1980,Malignant neoplasms                                   ,770
+59,4,American Indian or Alaska Native,1980,Chronic liver disease and cirrhosis                   ,410
+60,5,American Indian or Alaska Native,1980,Cerebrovascular diseases                              ,322
+61,6,American Indian or Alaska Native,1980,Pneumonia and influenza                               ,257
+62,7,American Indian or Alaska Native,1980,Homicide,217
+63,8,American Indian or Alaska Native,1980,Diabetes mellitus                                     ,210
+64,9,American Indian or Alaska Native,1980,Certain conditions originating in the perinatal period,199
+65,10,American Indian or Alaska Native,1980,Suicide                                               ,181
+66,,Asian or Pacific Islander,1980,All causes                                            ,11071
+67,1,Asian or Pacific Islander,1980,Diseases of heart                                     ,3265
+68,2,Asian or Pacific Islander,1980,Malignant neoplasms                                   ,2522
+69,3,Asian or Pacific Islander,1980,Cerebrovascular diseases                              ,1028
+70,4,Asian or Pacific Islander,1980,Unintentional injuries                                ,810
+71,5,Asian or Pacific Islander,1980,Pneumonia and influenza                               ,342
+72,6,Asian or Pacific Islander,1980,Suicide                                               ,249
+73,7,Asian or Pacific Islander,1980,Certain conditions originating in the perinatal period,246
+74,8,Asian or Pacific Islander,1980,Diabetes mellitus                                     ,227
+75,9,Asian or Pacific Islander,1980,Homicide,211
+76,10,Asian or Pacific Islander,1980,Chronic obstructive pulmonary diseases                ,207
+77,,Hispanic or  Latino,1980,,
+78,1,Hispanic or  Latino,1980,,
+79,2,Hispanic or  Latino,1980,,
+80,3,Hispanic or  Latino,1980,,
+81,4,Hispanic or  Latino,1980,,
+82,5,Hispanic or  Latino,1980,,
+83,6,Hispanic or  Latino,1980,,
+84,7,Hispanic or  Latino,1980,,
+85,8,Hispanic or  Latino,1980,,
+86,9,Hispanic or  Latino,1980,,
+87,10,Hispanic or  Latino,1980,,
+88,,White male,1980,All causes,933878
+89,1,White male,1980,Diseases of heart,364679
+90,2,White male,1980,Malignant neoplasms,198188
+91,3,White male,1980,Unintentional injuries,62963
+92,4,White male,1980,Cerebrovascular diseases,60095
+93,5,White male,1980,Chronic obstructive pulmonary diseases,35977
+94,6,White male,1980,Pneumonia and influenza,23810
+95,7,White male,1980,Suicide,18901
+96,8,White male,1980,Chronic liver disease and cirrhosis,16407
+97,9,White male,1980,Diabetes mellitus,12125
+98,10,White male,1980,Atherosclerosis,10543
+99,,Black or African American male,1980,All causes,130138
+100,1,Black or African American male,1980,Diseases of heart,37877
+101,2,Black or African American male,1980,Malignant neoplasms,25861
+102,3,Black or African American male,1980,Unintentional injuries,9701
+103,4,Black or African American male,1980,Cerebrovascular diseases,9194
+104,5,Black or African American male,1980,Homicide,8274
+105,6,Black or African American male,1980,Certain conditions originating in the perinatal period,3869
+106,7,Black or African American male,1980,Pneumonia and influenza,3386
+107,8,Black or African American male,1980,Chronic liver disease and cirrhosis,3020
+108,9,Black or African American male,1980,Chronic obstructive pulmonary diseases,2429
+109,10,Black or African American male,1980,Diabetes mellitus,2010
+110,,American Indian or Alaska Native male,1980,All causes,4193
+111,1,American Indian or Alaska Native male,1980,Unintentional injuries,946
+112,2,American Indian or Alaska Native male,1980,Diseases of heart,917
+113,3,American Indian or Alaska Native male,1980,Malignant neoplasms,408
+114,4,American Indian or Alaska Native male,1980,Chronic liver disease and cirrhosis,239
+115,5,American Indian or Alaska Native male,1980,Cerebrovascular diseases,163
+116,6,American Indian or Alaska Native male,1980,Homicide,162
+117,7,American Indian or Alaska Native male,1980,Pneumonia and influenza,148
+118,8,American Indian or Alaska Native male,1980,Suicide,147
+119,9,American Indian or Alaska Native male,1980,Certain conditions originating in the perinatal period,107
+120,10,American Indian or Alaska Native male,1980,Diabetes mellitus,86
+121,,Asian or Pacific Islander male,1980,All causes,6809
+122,1,Asian or Pacific Islander male,1980,Diseases of heart,2174
+123,2,Asian or Pacific Islander male,1980,Malignant neoplasms,1485
+124,3,Asian or Pacific Islander male,1980,Unintentional injuries,556
+125,4,Asian or Pacific Islander male,1980,Cerebrovascular diseases,521
+126,5,Asian or Pacific Islander male,1980,Pneumonia and influenza,227
+127,6,Asian or Pacific Islander male,1980,Suicide,159
+128,7,Asian or Pacific Islander male,1980,Chronic obstructive pulmonary diseases,158
+129,8,Asian or Pacific Islander male,1980,Homicide,151
+130,9,Asian or Pacific Islander male,1980,Certain conditions originating in the perinatal period,128
+131,10,Asian or Pacific Islander male,1980,Diabetes mellitus,103
+132,,Hispanic or Latino male,1980,,
+133,1,Hispanic or Latino male,1980,,
+134,2,Hispanic or Latino male,1980,,
+135,3,Hispanic or Latino male,1980,,
+136,4,Hispanic or Latino male,1980,,
+137,5,Hispanic or Latino male,1980,,
+138,6,Hispanic or Latino male,1980,,
+139,7,Hispanic or Latino male,1980,,
+140,8,Hispanic or Latino male,1980,,
+141,9,Hispanic or Latino male,1980,,
+142,10,Hispanic or Latino male,1980,,
+143,,White female,1980,All causes,804729
+144,1,White female,1980,Diseases of heart,318668
+145,2,White female,1980,Malignant neoplasms,169974
+146,3,White female,1980,Cerebrovascular diseases,88639
+147,4,White female,1980,Unintentional injuries,27159
+148,5,White female,1980,Pneumonia and influenza,24559
+149,6,White female,1980,Diabetes mellitus,16743
+150,7,White female,1980,Atherosclerosis,16526
+151,8,White female,1980,Chronic obstructive pulmonary diseases,16398
+152,9,White female,1980,Chronic liver disease and cirrhosis,8833
+153,10,White female,1980,Certain conditions originating in the perinatal period,6512
+154,,Black or African American female,1980,All causes,102997
+155,1,Black or African American female,1980,Diseases of heart,35079
+156,2,Black or African American female,1980,Malignant neoplasms,19176
+157,3,Black or African American female,1980,Cerebrovascular diseases,10941
+158,4,Black or African American female,1980,Unintentional injuries,3779
+159,5,Black or African American female,1980,Diabetes mellitus,3534
+160,6,Black or African American female,1980,Certain conditions originating in the perinatal period,3092
+161,7,Black or African American female,1980,Pneumonia and influenza,2262
+162,8,Black or African American female,1980,Homicide,1898
+163,9,Black or African American female,1980,Chronic liver disease and cirrhosis,1770
+164,10,Black or African American female,1980,"Nephritis, nephrotic syndrome, and nephrosis",1722
+165,,American Indian or Alaska Native female,1980,All causes,2730
+166,1,American Indian or Alaska Native female,1980,Diseases of heart,577
+167,2,American Indian or Alaska Native female,1980,Malignant neoplasms,362
+168,3,American Indian or Alaska Native female,1980,Unintentional injuries,344
+169,4,American Indian or Alaska Native female,1980,Chronic liver disease and cirrhosis,171
+170,5,American Indian or Alaska Native female,1980,Cerebrovascular diseases,159
+171,6,American Indian or Alaska Native female,1980,Diabetes mellitus,124
+172,7,American Indian or Alaska Native female,1980,Pneumonia and influenza,109
+173,8,American Indian or Alaska Native female,1980,Certain conditions originating in the perinatal period,92
+174,9,American Indian or Alaska Native female,1980,"Nephritis, nephrotic syndrome, and nephrosis",56
+175,10,American Indian or Alaska Native female,1980,Homicide,55
+176,,Asian or Pacific Islander female,1980,All causes,4262
+177,1,Asian or Pacific Islander female,1980,Diseases of heart,1091
+178,2,Asian or Pacific Islander female,1980,Malignant neoplasms,1037
+179,3,Asian or Pacific Islander female,1980,Cerebrovascular diseases,507
+180,4,Asian or Pacific Islander female,1980,Unintentional injuries,254
+181,5,Asian or Pacific Islander female,1980,Diabetes mellitus,124
+182,6,Asian or Pacific Islander female,1980,Certain conditions originating in the perinatal period,118
+183,7,Asian or Pacific Islander female,1980,Pneumonia and influenza,115
+184,8,Asian or Pacific Islander female,1980,Congenital anomalies,104
+185,9,Asian or Pacific Islander female,1980,Suicide,90
+186,10,Asian or Pacific Islander female,1980,Homicide,60
+187,,Hispanic or Latina female,1980,,
+188,1,Hispanic or Latina female,1980,,
+189,2,Hispanic or Latina female,1980,,
+190,3,Hispanic or Latina female,1980,,
+191,4,Hispanic or Latina female,1980,,
+192,5,Hispanic or Latina female,1980,,
+193,6,Hispanic or Latina female,1980,,
+194,7,Hispanic or Latina female,1980,,
+195,8,Hispanic or Latina female,1980,,
+196,9,Hispanic or Latina female,1980,,
+197,10,Hispanic or Latina female,1980,,
+198,,All persons,2009,All causes,2437163
+199,1,All persons,2009,Diseases of heart ,599413
+200,2,All persons,2009,Malignant neoplasms ,567628
+201,3,All persons,2009,Chronic lower respiratory diseases ,137353
+202,4,All persons,2009,Cerebrovascular diseases ,128842
+203,5,All persons,2009,Unintentional injuries ,118021
+204,6,All persons,2009,Alzheimer's disease ,79003
+205,7,All persons,2009,Diabetes mellitus ,68705
+206,8,All persons,2009,Influenza and pneumonia ,53692
+207,9,All persons,2009,"Nephritis, nephrotic syndrome, and nephrosis ",48935
+208,10,All persons,2009,Suicide ,36909
+209,,Male,2009,All causes,1217379
+210,1,Male,2009,Diseases of heart ,307225
+211,2,Male,2009,Malignant neoplasms ,296763
+212,3,Male,2009,Unintentional injuries ,75022
+213,4,Male,2009,Chronic lower respiratory diseases ,65119
+214,5,Male,2009,Cerebrovascular diseases ,52073
+215,6,Male,2009,Diabetes mellitus ,35054
+216,7,Male,2009,Suicide ,29089
+217,8,Male,2009,Influenza and pneumonia ,25128
+218,9,Male,2009,"Nephritis, nephrotic syndrome, and nephrosis ",23930
+219,10,Male,2009,Alzheimer's disease ,23900
+220,,Female,2009,All causes,1219784
+221,1,Female,2009,Diseases of heart ,292188
+222,2,Female,2009,Malignant neoplasms ,270865
+223,3,Female,2009,Cerebrovascular diseases ,76769
+224,4,Female,2009,Chronic lower respiratory diseases ,72234
+225,5,Female,2009,Alzheimer's disease ,55103
+226,6,Female,2009,Unintentional injuries ,42999
+227,7,Female,2009,Diabetes mellitus ,33651
+228,8,Female,2009,Influenza and pneumonia ,28564
+229,9,Female,2009,"Nephritis, nephrotic syndrome, and nephrosis ",25005
+230,10,Female,2009,Septicemia ,19268
+231,,White,2009,All causes,2086355
+232,1,White,2009,Diseases of heart ,515587
+233,2,White,2009,Malignant neoplasms ,486995
+234,3,White,2009,Chronic lower respiratory diseases ,126733
+235,4,White,2009,Cerebrovascular diseases ,108764
+236,5,White,2009,Unintentional injuries ,102170
+237,6,White,2009,Alzheimer's disease ,72696
+238,7,White,2009,Diabetes mellitus ,54113
+239,8,White,2009,Influenza and pneumonia ,46432
+240,9,White,2009,"Nephritis, nephrotic syndrome, and nephrosis ",38758
+241,10,White,2009,Suicide ,33425
+242,,Black or African American,2009,All causes,286623
+243,1,Black or African American,2009,Diseases of heart ,69687
+244,2,Black or African American,2009,Malignant neoplasms ,64649
+245,3,Black or African American,2009,Cerebrovascular diseases ,15878
+246,4,Black or African American,2009,Unintentional injuries ,12074
+247,5,Black or African American,2009,Diabetes mellitus ,11960
+248,6,Black or African American,2009,"Nephritis, nephrotic syndrome, and nephrosis ",8808
+249,7,Black or African American,2009,Chronic lower respiratory diseases ,8530
+250,8,Black or African American,2009,Homicide ,7874
+251,9,Black or African American,2009,Septicemia ,6179
+252,10,Black or African American,2009,Human immunodeficiency virus (HIV) disease ,5377
+253,,American Indian or Alaska Native,2009,All causes,14960
+254,1,American Indian or Alaska Native,2009,Diseases of heart ,2764
+255,2,American Indian or Alaska Native,2009,Malignant neoplasms ,2710
+256,3,American Indian or Alaska Native,2009,Unintentional injuries ,1733
+257,4,American Indian or Alaska Native,2009,Diabetes mellitus ,786
+258,5,American Indian or Alaska Native,2009,Chronic liver disease and cirrhosis ,714
+259,6,American Indian or Alaska Native,2009,Chronic lower respiratory diseases ,610
+260,7,American Indian or Alaska Native,2009,Cerebrovascular diseases ,561
+261,8,American Indian or Alaska Native,2009,Suicide ,429
+262,9,American Indian or Alaska Native,2009,Influenza and pneumonia ,402
+263,10,American Indian or Alaska Native,2009,"Nephritis, nephrotic syndrome, and nephrosis ",307
+264,,Asian or Pacific Islander,2009,All causes,49225
+265,1,Asian or Pacific Islander,2009,Malignant neoplasms ,13274
+266,2,Asian or Pacific Islander,2009,Diseases of heart ,11375
+267,3,Asian or Pacific Islander,2009,Cerebrovascular diseases ,3639
+268,4,Asian or Pacific Islander,2009,Unintentional injuries ,2044
+269,5,Asian or Pacific Islander,2009,Diabetes mellitus ,1846
+270,6,Asian or Pacific Islander,2009,Influenza and pneumonia ,1568
+271,7,Asian or Pacific Islander,2009,Chronic lower respiratory diseases ,1480
+272,8,Asian or Pacific Islander,2009,"Nephritis, nephrotic syndrome, and nephrosis ",1062
+273,9,Asian or Pacific Islander,2009,Alzheimer's disease ,1024
+274,10,Asian or Pacific Islander,2009,Suicide ,971
+275,,Hispanic or  Latino,2009,All causes,141576
+276,1,Hispanic or  Latino,2009,Malignant neoplasms ,29935
+277,2,Hispanic or  Latino,2009,Diseases of heart ,29611
+278,3,Hispanic or  Latino,2009,Unintentional injuries ,10654
+279,4,Hispanic or  Latino,2009,Cerebrovascular diseases ,7065
+280,5,Hispanic or  Latino,2009,Diabetes mellitus ,6311
+281,6,Hispanic or  Latino,2009,Chronic liver disease and cirrhosis ,4303
+282,7,Hispanic or  Latino,2009,Chronic lower respiratory diseases ,4026
+283,8,Hispanic or  Latino,2009,Influenza and pneumonia ,3679
+284,9,Hispanic or  Latino,2009,Homicide ,3179
+285,10,Hispanic or  Latino,2009,"Nephritis, nephrotic syndrome, and nephrosis ",3107
+286,,White male,2009,All causes,1037475
+287,1,White male,2009,Diseases of heart ,263976
+288,2,White male,2009,Malignant neoplasms ,255042
+289,3,White male,2009,Unintentional injuries ,64501
+290,4,White male,2009,Chronic lower respiratory diseases ,59465
+291,5,White male,2009,Cerebrovascular diseases ,43190
+292,6,White male,2009,Diabetes mellitus ,28205
+293,7,White male,2009,Suicide ,26426
+294,8,White male,2009,Alzheimer's disease ,22066
+295,9,White male,2009,Influenza and pneumonia ,21614
+296,10,White male,2009,"Nephritis, nephrotic syndrome, and nephrosis ",19312
+297,,Black or African American male,2009,All causes,146239
+298,1,Black or African American male,2009,Diseases of heart ,35420
+299,2,Black or African American male,2009,Malignant neoplasms ,33443
+300,3,Black or African American male,2009,Unintentional injuries ,8083
+301,4,Black or African American male,2009,Cerebrovascular diseases ,6962
+302,5,Black or African American male,2009,Homicide ,6715
+303,6,Black or African American male,2009,Diabetes mellitus ,5488
+304,7,Black or African American male,2009,Chronic lower respiratory diseases ,4503
+305,8,Black or African American male,2009,"Nephritis, nephrotic syndrome, and nephrosis ",3974
+306,9,Black or African American male,2009,Human immunodeficiency virus (HIV) disease ,3535
+307,10,Black or African American male,2009,Septicemia ,2745
+308,,American Indian or Alaska Native male,2009,All causes,8105
+309,1,American Indian or Alaska Native male,2009,Diseases of heart ,1591
+310,2,American Indian or Alaska Native male,2009,Malignant neoplasms ,1381
+311,3,American Indian or Alaska Native male,2009,Unintentional injuries ,1150
+312,4,American Indian or Alaska Native male,2009,Diabetes mellitus ,418
+313,5,American Indian or Alaska Native male,2009,Chronic liver disease and cirrhosis ,380
+314,6,American Indian or Alaska Native male,2009,Suicide ,313
+315,7,American Indian or Alaska Native male,2009,Chronic lower respiratory diseases ,287
+316,8,American Indian or Alaska Native male,2009,Cerebrovascular diseases ,263
+317,9,American Indian or Alaska Native male,2009,Influenza and pneumonia ,193
+318,10,American Indian or Alaska Native male,2009,Homicide,193
+319,,Asian or Pacific Islander male,2009,All causes,25560
+320,1,Asian or Pacific Islander male,2009,Malignant neoplasms ,6897
+321,2,Asian or Pacific Islander male,2009,Diseases of heart ,6238
+322,3,Asian or Pacific Islander male,2009,Cerebrovascular diseases ,1658
+323,4,Asian or Pacific Islander male,2009,Unintentional injuries ,1288
+324,5,Asian or Pacific Islander male,2009,Diabetes mellitus ,943
+325,6,Asian or Pacific Islander male,2009,Chronic lower respiratory diseases ,864
+326,7,Asian or Pacific Islander male,2009,Influenza and pneumonia ,809
+327,8,Asian or Pacific Islander male,2009,Suicide ,666
+328,9,Asian or Pacific Islander male,2009,"Nephritis, nephrotic syndrome, and nephrosis ",518
+329,10,Asian or Pacific Islander male,2009,Alzheimer's disease ,318
+330,,Hispanic or Latino male,2009,All causes,78157
+331,1,Hispanic or Latino male,2009,Diseases of heart ,16301
+332,2,Hispanic or Latino male,2009,Malignant neoplasms ,15772
+333,3,Hispanic or Latino male,2009,Unintentional injuries ,7841
+334,4,Hispanic or Latino male,2009,Cerebrovascular diseases ,3288
+335,5,Hispanic or Latino male,2009,Diabetes mellitus ,3212
+336,6,Hispanic or Latino male,2009,Chronic liver disease and cirrhosis ,2969
+337,7,Hispanic or Latino male,2009,Homicide ,2635
+338,8,Hispanic or Latino male,2009,Suicide ,2135
+339,9,Hispanic or Latino male,2009,Chronic lower respiratory diseases ,2024
+340,10,Hispanic or Latino male,2009,Influenza and pneumonia ,1882
+341,,White female,2009,All causes,1048880
+342,1,White female,2009,Diseases of heart ,251611
+343,2,White female,2009,Malignant neoplasms ,231953
+344,3,White female,2009,Chronic lower respiratory diseases ,67268
+345,4,White female,2009,Cerebrovascular diseases ,65574
+346,5,White female,2009,Alzheimer's disease ,50630
+347,6,White female,2009,Unintentional injuries ,37669
+348,7,White female,2009,Diabetes mellitus ,25908
+349,8,White female,2009,Influenza and pneumonia ,24818
+350,9,White female,2009,"Nephritis, nephrotic syndrome, and nephrosis ",19446
+351,10,White female,2009,Septicemia ,15403
+352,,Black or African American female,2009,All causes,140384
+353,1,Black or African American female,2009,Diseases of heart ,34267
+354,2,Black or African American female,2009,Malignant neoplasms ,31206
+355,3,Black or African American female,2009,Cerebrovascular diseases ,8916
+356,4,Black or African American female,2009,Diabetes mellitus ,6472
+357,5,Black or African American female,2009,"Nephritis, nephrotic syndrome, and nephrosis ",4834
+358,6,Black or African American female,2009,Chronic lower respiratory diseases ,4027
+359,7,Black or African American female,2009,Unintentional injuries ,3991
+360,8,Black or African American female,2009,Alzheimer's disease ,3639
+361,9,Black or African American female,2009,Septicemia ,3434
+362,10,Black or African American female,2009,Essential hypertension and hypertensive renal disease,2802
+363,,American Indian or Alaska Native female,2009,All causes,6855
+364,1,American Indian or Alaska Native female,2009,Malignant neoplasms ,1329
+365,2,American Indian or Alaska Native female,2009,Diseases of heart ,1173
+366,3,American Indian or Alaska Native female,2009,Unintentional injuries ,583
+367,4,American Indian or Alaska Native female,2009,Diabetes mellitus ,368
+368,5,American Indian or Alaska Native female,2009,Chronic liver disease and cirrhosis ,334
+369,6,American Indian or Alaska Native female,2009,Chronic lower respiratory diseases ,323
+370,7,American Indian or Alaska Native female,2009,Cerebrovascular diseases ,298
+371,8,American Indian or Alaska Native female,2009,Influenza and pneumonia ,209
+372,9,American Indian or Alaska Native female,2009,"Nephritis, nephrotic syndrome, and nephrosis ",181
+373,10,American Indian or Alaska Native female,2009,Septicemia ,148
+374,,Asian or Pacific Islander female,2009,All causes,23665
+375,1,Asian or Pacific Islander female,2009,Malignant neoplasms ,6377
+376,2,Asian or Pacific Islander female,2009,Diseases of heart ,5137
+377,3,Asian or Pacific Islander female,2009,Cerebrovascular diseases ,1981
+378,4,Asian or Pacific Islander female,2009,Diabetes mellitus ,903
+379,5,Asian or Pacific Islander female,2009,Influenza and pneumonia ,759
+380,6,Asian or Pacific Islander female,2009,Unintentional injuries ,756
+381,7,Asian or Pacific Islander female,2009,Alzheimer's disease ,706
+382,8,Asian or Pacific Islander female,2009,Chronic lower respiratory diseases ,616
+383,9,Asian or Pacific Islander female,2009,"Nephritis, nephrotic syndrome and nephrosis ",544
+384,10,Asian or Pacific Islander female,2009,Essential hypertension and hypertensive renal disease,410
+385,,Hispanic or Latina female,2009,All causes,63419
+386,1,Hispanic or Latina female,2009,Malignant neoplasms ,14163
+387,2,Hispanic or Latina female,2009,Diseases of heart ,13310
+388,3,Hispanic or Latina female,2009,Cerebrovascular diseases ,3777
+389,4,Hispanic or Latina female,2009,Diabetes mellitus ,3099
+390,5,Hispanic or Latina female,2009,Unintentional injuries ,2813
+391,6,Hispanic or Latina female,2009,Alzheimer's disease ,2013
+392,7,Hispanic or Latina female,2009,Chronic lower respiratory diseases ,2002
+393,8,Hispanic or Latina female,2009,Influenza and pneumonia ,1797
+394,9,Hispanic or Latina female,2009,"Nephritis, nephrotic syndrome, and nephrosis ",1514
+395,10,Hispanic or Latina female,2009,Chronic liver disease and cirrhosis ,1334
